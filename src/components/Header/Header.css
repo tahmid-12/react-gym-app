@@ -1,6 +1,6 @@
 header{
     background-color: #fff;
-    height: 20vh;
+    /* height: 20vh; */
     box-shadow: 0 5px 30px rgb(0 22 84 / 10%);
     padding: 15px 0;
     position: sticky;
@@ -44,7 +44,7 @@ header .toggle{
 @media screen and (max-width: 768px){
     header{
         padding: 0;
-        height: 40vh;
+        height: 18vh;
     }
     header img{
         margin-top: 30px;
@@ -61,7 +61,7 @@ header .toggle{
     }
     header .small{
         position: absolute;
-        top: 40vh;
+        top: 18vh;
         left: 0;
         width: 100%;
         background-color: #27ae60;
