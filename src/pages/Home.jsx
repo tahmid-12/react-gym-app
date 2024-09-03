@@ -1,9 +1,12 @@
 import React from 'react'
-import { Hero } from '../components'
+import { Featured, Hero } from '../components'
 
 const Home = () => {
   return (
-    <div><Hero /></div>
+    <div>
+      <Hero />
+      <Featured />
+    </div>
   )
 }
 
