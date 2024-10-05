@@ -1,6 +1,6 @@
 const NewsLetter = () => {
     return (
-      <div className="m-auto text-white px-6 py-8 bg-[#24262b] rounded-lg shadow-lg ">
+      <div className="m-auto text-white px-6 py-8 bg-[#24262b] shadow-lg ">
           <div className="mx-auto grid lg:grid-cols-3 gap-6">
               <div className="lg:col-span-2 my-4">
                   <h1 className="text-3xl sm:text-4xl font-bold mb-2 text-[#00df9a]">Need advice on improving your workflow?</h1>
