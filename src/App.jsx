@@ -1,6 +1,7 @@
 import './App.css'
 import Delivery from './components/Delivery'
 import Featured from './components/Featured'
+import Meal from './components/Meal'
 import TopNav from './components/TopNav'
 import TopPicks from './components/TopPicks'
 
@@ -12,6 +13,7 @@ function App() {
       <Featured />
       <Delivery />
       <TopPicks />
+      <Meal />
     </>
   )
 }
