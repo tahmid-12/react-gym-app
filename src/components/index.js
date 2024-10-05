@@ -1,6 +1,7 @@
 import Categories from "./Categories";
 import Delivery from "./Delivery";
 import Featured from "./Featured";
+import Footer from "./Footer";
 import Meal from "./Meal";
 import NewsLetter from "./NewsLetter";
 import TopNav from "./TopNav";
@@ -13,5 +14,6 @@ export default {
     TopPicks,
     Meal,
     Categories,
-    NewsLetter
+    NewsLetter,
+    Footer
 }
