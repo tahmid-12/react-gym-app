@@ -1,3 +1,4 @@
+import Categories from "./Categories";
 import Delivery from "./Delivery";
 import Featured from "./Featured";
 import Meal from "./Meal";
@@ -9,5 +10,6 @@ export default {
     Featured,
     Delivery,
     TopPicks,
-    Meal
+    Meal,
+    Categories
 }
